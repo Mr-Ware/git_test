@@ -1,1 +1,1 @@
-This is Cameron's first git project!!
+This is Cameron's first git project!
